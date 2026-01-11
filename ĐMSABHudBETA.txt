@@ -10,12 +10,12 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
         KeySystem = true,
         Title = "Mạnh Tổng Hợp SAB",
         Description = "Dùng Script Vui Vẻ",
-        KeyLink = "https://discord.gg/5QuSfb2nmT",
+        KeyLink = "https://discord.gg/vxyg28gZ",
         Keys = {"minhmeo"},
         Notifi = {
         Notifications = true,
         CorrectKey = "Hello fen",
-       Incorrectkey = "liên hệ discord https://discord.gg/5QuSfb2nmT để lấy key",
+       Incorrectkey = "liên hệ discord https://discord.gg/vxyg28gZ để lấy key",
       }
     }
   })
@@ -185,5 +185,6 @@ AddButton(Tab1o, {
         setclipboard("https://discord.gg/vxyg28gZ")
     end
 })
+
 
 
