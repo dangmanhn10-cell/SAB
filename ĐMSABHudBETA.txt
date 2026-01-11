@@ -182,7 +182,8 @@ AddButton(Tab4o, {
 AddButton(Tab1o, {
     Name = "DISCORD",
     Callback = function()
-        setclipboard("https://discord.gg/5QuSfb2nmT")
+        setclipboard("https://discord.gg/vxyg28gZ")
     end
 })
+
 
